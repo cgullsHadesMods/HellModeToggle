@@ -4,4 +4,4 @@
     cgull (Discord: cgull#4469)
 :-
 
-Import "HellModeTogle.lua"
+Import "HellModeToggle.lua"
