@@ -6,7 +6,7 @@
     Provides functionality for other mods to toggle hell mode
 ]]
 
-ModUtil.RegisterMod("HellModeToggle")
+ModUtil.Mod.Register("HellModeToggle")
 
 local config = {
     Enabled = true,
